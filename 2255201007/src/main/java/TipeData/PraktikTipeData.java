@@ -22,12 +22,16 @@ public class PraktikTipeData {
 
         // Tipe Data Double
         double jarak_kampus = 9.6;
+        
+        // Tipe Data Boolean
+        boolean motor = true;
 
         System.out.println("Nama = " + nama);
         System.out.println("NIM = " + nim);
         System.out.println("Umur = " + umur);
         System.out.println("Golongan Darah = " + gol_darah);
         System.out.println("Jarak ke Kampus = " + jarak_kampus + "KM");
+        System.out.println("Naik motor sendiri = " + motor);
                 
     }
 }
